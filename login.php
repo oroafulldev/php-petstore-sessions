@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <?php include('cabecera.php');  ?>
     <title>Iniciar Sesión</title>
 </head>
 <body>
-
+<figure class="image has-text-centered mt-4">
+  <img class="logo is-inline-block" src="./img/logo_pulgoso_petshop.png">
+</figure>
 <section class="section">
     <div class="container">
         <div class="columns is-centered">
